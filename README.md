@@ -1,4 +1,4 @@
-# sd_hub_portal_sh
+# sd_hub_portal_sh by Shahriar Hussain
 
 Create SD HUb Management Portal using Angular and NodeJs
 
