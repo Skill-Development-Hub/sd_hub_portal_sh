@@ -18,7 +18,7 @@ export class SigninComponent implements OnInit {
     });
   }
 
-  OnSubmit(): void{
+  onSubmit(): void{
     if(this.signInForm.valid) {
       const {email, password} = this.signInForm.value;
       console.log('Sign-In Data:', {email});
