@@ -76,7 +76,7 @@ ng new angular_project_name --standalone false
 <details>
     <summary>Just follow this procedure (Click here to expand)</summary>
 
-* Enter the following command in terminal. For more info [click here to visit official Angualar Execution Policiy instructions](https://angular.dev/tools/cli/setup-local#powershell-execution-policy)
+* Enter the following command in terminal. For more info [click here to visit official Angular Execution Policiy instructions](https://angular.dev/tools/cli/setup-local#powershell-execution-policy)
 
 ```bash
  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
